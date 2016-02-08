@@ -17,6 +17,6 @@ int main()
 	cin >> c;
 	
 	cout << "Hello, my name is " << a << endl;
-	cout << "I am " << b << "years old and my favorite thing is " << c;
+	cout << "I am " << b << " years old and my favorite thing is " << c;
 	
 }
