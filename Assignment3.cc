@@ -22,7 +22,7 @@ int main()
 	double result1;
 	result1 = b + c;
 	
-	cout << "We can add an int to a double variable" <<endl;
+	cout << "We can add an int to a double variable:" <<endl;
 	cout << b << " + " << c << " = " << result1 <<endl;
 	
 	
