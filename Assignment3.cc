@@ -25,5 +25,6 @@ int main()
 	cout << "We can add an int to a double variable:" <<endl;
 	cout << b << " + " << c << " = " << result1 <<endl;
 	
+	return 0;
 	
 }
